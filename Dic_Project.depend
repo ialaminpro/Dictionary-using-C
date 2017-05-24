@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1398116968 source:e:\dic_project\main.cpp
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
